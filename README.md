@@ -5,7 +5,7 @@ Salah satu proses dari pengolahan data adalah melakukan data cleaning, yaitu pro
 
 Author : Adi Nurrachman
 
-Universitas Islam Negeri Maulana Malik Ibrahim
+Magister Teknik Informatika - Universitas Islam Negeri Maulana Malik Ibrahim
 
 Dosen : Gunawan Budiprasetyo, ST, MMT, Ph.D
 
